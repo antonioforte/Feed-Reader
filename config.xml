@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+
+        <category id="tech">
+            <feed name="slashdot frontpage" url="http://rss.slashdot.org/Slashdot/slashdot" />
+            <feed name="reddit programming" url="http://www.reddit.com/r/programming/.rss" />
+            <feed name="slashdot linux" url="http://rss.slashdot.org/Slashdot/slashdotLinux" />
+            <feed name="slashdot science" url="http://rss.slashdot.org/Slashdot/slashdotScience" />
+            <feed name="slashdot YourRightsOnline" url="http://rss.slashdot.org/Slashdot/slashdotYourRightsOnline" />
+            <feed name="ycombinator" url="http://news.ycombinator.com/rss" /> 
+        </category>
+        
+        <category id="reddit">
+            <feed name="funny" url="http://www.reddit.com/r/funny/.rss" />
+            <feed name="gaming" url="http://www.reddit.com/r/gaming/.rss" />
+            <feed name="answers" url="http://www.reddit.com/r/answers/.rss" />
+            <feed name="videos" url="http://www.reddit.com/r/videos/.rss" />
+            <feed name="todayilearned" url="http://www.reddit.com/r/todayilearned/.rss" />
+            <feed name="wtf" url="http://www.reddit.com/r/WTF/.rss" />
+            <feed name="fffffffuuuuuuuuuuuu" url="http://www.reddit.com/r/fffffffuuuuuuuuuuuu/.rss" />
+            <feed name="comics" url="http://www.reddit.com/r/comics/.rss" />
+            <feed name="AskReddit" url="http://www.reddit.com/r/AskReddit/.rss" />
+        </category>
+        
+        <category id="top">
+             <feed name="CNN" url="http://rss.cnn.com/rss/edition.rss" />
+             <feed name="Reuters" url="http://feeds.reuters.com/reuters/topNews/" />
+             <feed name="Publico" url="http://feeds.feedburner.com/PublicoUltimaHora" />
+             <feed name="JN" url="http://feeds.jn.pt/JN-ULTIMAS" />
+             <feed name="RTP" url="http://tv1.rtp.pt/noticias/index.php?headline=19&amp;visual=12" />
+        </category>
+        
+        <category id="coolio">
+            <feed name="digg" url="http://feeds.digg.com/digg/popular.rss" />
+            <feed name="theonion" url="http://feeds.theonion.com/theonion/daily" />
+            <feed name="cracked" url="http://feeds.feedburner.com/CrackedRSS" />
+        </category>
+
+</settings> 
